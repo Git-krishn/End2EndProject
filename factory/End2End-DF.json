@@ -1,0 +1,9 @@
+{
+	"name": "End2End-DF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee67c17d-61e2-441a-93a8-290982af2a0e",
+		"tenantId": "91220ffa-bf12-4cf9-a33e-6d6b23ae0766"
+	}
+}
